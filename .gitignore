@@ -58,3 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+FindMe/UserSettings/
+FindMe/ProjectSettings/
+FindMe/Packages/
+FindMe/obj/
+FindMe/Library/
+FindMe/.vscode/
